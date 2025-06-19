@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-NoBroker_Suite" class="navigator-link">
+              <span class="suite-name border-passed">NoBroker Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-NoBroker_Suite" class="navigator-link ">
+                    <span>C:\Users\jjeswant\Sprint\NoBroker\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-NoBroker_Suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-NoBroker_Suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-NoBroker_Suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-NoBroker_Suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-NoBroker_Suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-NoBroker_Suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">12 methods,   12 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-NoBroker_Suite" class="hide-methods passed suite-NoBroker_Suite"> (hide)</a> <!-- hide-methods passed suite-NoBroker_Suite -->
+                      <a href="#" panel-name="suite-NoBroker_Suite" class="show-methods passed suite-NoBroker_Suite"> (show)</a> <!-- show-methods passed suite-NoBroker_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-NoBroker_Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_04" class="method navigator-link" hash-for-method="BacToHomeFromMB">BacToHomeFromMB</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_05" class="method navigator-link" hash-for-method="BackToPackFromHS">BackToPackFromHS</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_02" class="method navigator-link" hash-for-method="Between_Cities">Between_Cities</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_03" class="method navigator-link" hash-for-method="LoginIn">LoginIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_02" class="method navigator-link" hash-for-method="LoginIn">LoginIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_05" class="method navigator-link" hash-for-method="LoginIn">LoginIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_04" class="method navigator-link" hash-for-method="LoginIn">LoginIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_01" class="method navigator-link" hash-for-method="LoginIn">LoginIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_06" class="method navigator-link" hash-for-method="LoginIn">LoginIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_03" class="method navigator-link" hash-for-method="MoversOnly">MoversOnly</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_06" class="method navigator-link" hash-for-method="PackNMove">PackNMove</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NoBroker_Suite" title="com.capgemini.tests.NB_PM_01" class="method navigator-link" hash-for-method="packersNmovers">packersNmovers</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-NoBroker_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-NoBroker_Suite" class="panel NoBroker_Suite">
+          <div class="suite-NoBroker_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.capgemini.tests.NB_PM_01</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIn">
+                  </a> <!-- LoginIn -->
+                  <span class="method-name">LoginIn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="packersNmovers">
+                  </a> <!-- packersNmovers -->
+                  <span class="method-name">packersNmovers</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-NoBroker_Suite-class-passed -->
+          <div class="suite-NoBroker_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.capgemini.tests.NB_PM_05</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="BackToPackFromHS">
+                  </a> <!-- BackToPackFromHS -->
+                  <span class="method-name">BackToPackFromHS</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIn">
+                  </a> <!-- LoginIn -->
+                  <span class="method-name">LoginIn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-NoBroker_Suite-class-passed -->
+          <div class="suite-NoBroker_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.capgemini.tests.NB_PM_06</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIn">
+                  </a> <!-- LoginIn -->
+                  <span class="method-name">LoginIn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="PackNMove">
+                  </a> <!-- PackNMove -->
+                  <span class="method-name">PackNMove</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-NoBroker_Suite-class-passed -->
+          <div class="suite-NoBroker_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.capgemini.tests.NB_PM_04</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="BacToHomeFromMB">
+                  </a> <!-- BacToHomeFromMB -->
+                  <span class="method-name">BacToHomeFromMB</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIn">
+                  </a> <!-- LoginIn -->
+                  <span class="method-name">LoginIn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-NoBroker_Suite-class-passed -->
+          <div class="suite-NoBroker_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.capgemini.tests.NB_PM_03</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIn">
+                  </a> <!-- LoginIn -->
+                  <span class="method-name">LoginIn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="MoversOnly">
+                  </a> <!-- MoversOnly -->
+                  <span class="method-name">MoversOnly</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-NoBroker_Suite-class-passed -->
+          <div class="suite-NoBroker_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.capgemini.tests.NB_PM_02</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Between_Cities">
+                  </a> <!-- Between_Cities -->
+                  <span class="method-name">Between_Cities</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginIn">
+                  </a> <!-- LoginIn -->
+                  <span class="method-name">LoginIn</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-NoBroker_Suite-class-passed -->
+        </div> <!-- panel NoBroker_Suite -->
+        <div panel-name="test-xml-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\jjeswant\Sprint\NoBroker\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;NoBroker Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.capgemini.tests.NB_PM_01&quot;/&gt;
+      &lt;class name=&quot;com.capgemini.tests.NB_PM_02&quot;/&gt;
+      &lt;class name=&quot;com.capgemini.tests.NB_PM_03&quot;/&gt;
+      &lt;class name=&quot;com.capgemini.tests.NB_PM_04&quot;/&gt;
+      &lt;class name=&quot;com.capgemini.tests.NB_PM_05&quot;/&gt;
+      &lt;class name=&quot;com.capgemini.tests.NB_PM_06&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Test --&gt;
+&lt;/suite&gt; &lt;!-- NoBroker Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for NoBroker Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Test (6 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for NoBroker Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for NoBroker Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_NoBroker_Suite');
+function tableData_NoBroker_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(12);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'LoginIn')
+data.setCell(0, 2, 'com.capgemini.tests.NB_PM_01')
+data.setCell(0, 3, 35056);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'LoginIn')
+data.setCell(1, 2, 'com.capgemini.tests.NB_PM_02')
+data.setCell(1, 3, 33623);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'LoginIn')
+data.setCell(2, 2, 'com.capgemini.tests.NB_PM_04')
+data.setCell(2, 3, 33194);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'LoginIn')
+data.setCell(3, 2, 'com.capgemini.tests.NB_PM_03')
+data.setCell(3, 3, 33123);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'LoginIn')
+data.setCell(4, 2, 'com.capgemini.tests.NB_PM_06')
+data.setCell(4, 3, 33050);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'LoginIn')
+data.setCell(5, 2, 'com.capgemini.tests.NB_PM_05')
+data.setCell(5, 3, 32481);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'packersNmovers')
+data.setCell(6, 2, 'com.capgemini.tests.NB_PM_01')
+data.setCell(6, 3, 20468);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'MoversOnly')
+data.setCell(7, 2, 'com.capgemini.tests.NB_PM_03')
+data.setCell(7, 3, 14319);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'Between_Cities')
+data.setCell(8, 2, 'com.capgemini.tests.NB_PM_02')
+data.setCell(8, 3, 9429);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'BacToHomeFromMB')
+data.setCell(9, 2, 'com.capgemini.tests.NB_PM_04')
+data.setCell(9, 3, 7657);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'BackToPackFromHS')
+data.setCell(10, 2, 'com.capgemini.tests.NB_PM_05')
+data.setCell(10, 3, 6699);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'PackNMove')
+data.setCell(11, 2, 'com.capgemini.tests.NB_PM_06')
+data.setCell(11, 3, 5385);
+window.suiteTableData['NoBroker_Suite']= { tableData: data, tableDiv: 'times-div-NoBroker_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 4 minutes</span>
+              <div id="times-div-NoBroker_Suite">
+              </div> <!-- times-div-NoBroker_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for NoBroker Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIn</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on Login link</span>
+                <span class="reporter-method-output">Entered Phone number: 8919902900</span>
+                <span class="reporter-method-output">Submitted</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIn</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on Login link</span>
+                <span class="reporter-method-output">Entered Phone number: 8919902900</span>
+                <span class="reporter-method-output">Submitted</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIn</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on Login link</span>
+                <span class="reporter-method-output">Entered Phone number: 8919902900</span>
+                <span class="reporter-method-output">Submitted</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">packersNmovers</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Menu Clicked</span>
+                <span class="reporter-method-output">PackernMovers Clicked</span>
+                <span class="reporter-method-output">Cleared From</span>
+                <span class="reporter-method-output">Entered From</span>
+                <span class="reporter-method-output">Select From INPUT</span>
+                <span class="reporter-method-output">Cleared To</span>
+                <span class="reporter-method-output">Entered To</span>
+                <span class="reporter-method-output">Select To INPUT</span>
+                <span class="reporter-method-output">Click Prices</span>
+                <span class="reporter-method-output">Select Living Room</span>
+                <span class="reporter-method-output">Select Sofa</span>
+                <span class="reporter-method-output">Select 1 Seater</span>
+                <span class="reporter-method-output">Click Continue</span>
+                <span class="reporter-method-output">Select Date</span>
+                <span class="reporter-method-output">Select Time</span>
+                <span class="reporter-method-output">Confirm Selection</span>
+                <span class="reporter-method-output">Select Inventory</span>
+                <span class="reporter-method-output">Click Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">MoversOnly</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Menu opened</span>
+                <span class="reporter-method-output">Clicked on Packers and Movers</span>
+                <span class="reporter-method-output">Movers option selected</span>
+                <span class="reporter-method-output">'From' location entered</span>
+                <span class="reporter-method-output">'From' location selected</span>
+                <span class="reporter-method-output">'To' location entered</span>
+                <span class="reporter-method-output">'To' location selected</span>
+                <span class="reporter-method-output">Clicked on View Prices</span>
+                <span class="reporter-method-output">Truck selected</span>
+                <span class="reporter-method-output">Clicked on Schedule</span>
+                <span class="reporter-method-output">Date selected</span>
+                <span class="reporter-method-output">Timezone selected</span>
+                <span class="reporter-method-output">Time interval selected</span>
+                <span class="reporter-method-output">Schedule confirmed</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIn</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on Login link</span>
+                <span class="reporter-method-output">Entered Phone number: 8919902900</span>
+                <span class="reporter-method-output">Submitted</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIn</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on Login link</span>
+                <span class="reporter-method-output">Entered Phone number: 8919902900</span>
+                <span class="reporter-method-output">Submitted</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginIn</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on Login link</span>
+                <span class="reporter-method-output">Entered Phone number: 8919902900</span>
+                <span class="reporter-method-output">Submitted</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">BacToHomeFromMB</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Menu Clicked</span>
+                <span class="reporter-method-output">Packers and movers Clicked</span>
+                <span class="reporter-method-output">Mybookings Clicked</span>
+                <span class="reporter-method-output">Switched to new window</span>
+                <span class="reporter-method-output">Home Clicked</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">BackToPackFromHS</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Menu Clicked</span>
+                <span class="reporter-method-output">Painting and Cleaning Clicked</span>
+                <span class="reporter-method-output">City Selected</span>
+                <span class="reporter-method-output">Packers and Movers Clicked</span>
+                <span class="reporter-method-output">WithinCity Clicked</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">PackNMove</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Menu Clicked</span>
+                <span class="reporter-method-output">PackernMovers Clicked</span>
+                <span class="reporter-method-output">Cleared From</span>
+                <span class="reporter-method-output">Cleared To</span>
+                <span class="reporter-method-output">Click Prices</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Between_Cities</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Menu Clicked</span>
+                <span class="reporter-method-output">PackernMovers Clicked</span>
+                <span class="reporter-method-output">Between Cities Clicked</span>
+                <span class="reporter-method-output">Clicked on Date field</span>
+                <span class="reporter-method-output">Selected a date</span>
+                <span class="reporter-method-output">Clicked on 'Price within City'</span>
+                <span class="reporter-method-output">Clicked on 'Living Room'</span>
+                <span class="reporter-method-output">Clicked on 'Sofa'</span>
+                <span class="reporter-method-output">Clicked on '2 Seater Sofa'</span>
+                <span class="reporter-method-output">Clicked on 'Continue'</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">10 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.capgemini.tests.NB_PM_05</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">tearDownReport</span>
+                <br/>
+                <span class="ignored-method-name">setUpReport</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.capgemini.tests.NB_PM_06</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">setUpReport</span>
+                <br/>
+                <span class="ignored-method-name">tearDownReport</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.capgemini.tests.NB_PM_04</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">tearDownReport</span>
+                <br/>
+                <span class="ignored-method-name">setUpReport</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.capgemini.tests.NB_PM_03</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">tearDownReport</span>
+                <br/>
+                <span class="ignored-method-name">setUpReport</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.capgemini.tests.NB_PM_02</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">tearDownReport</span>
+                <br/>
+                <span class="ignored-method-name">setUpReport</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-NoBroker_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_01</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setUpReport</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass</span>
+                <span class="method-start">403 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(public void com.capgemini.tests.NB_PM_01.LoginIn() throws java.lang.Exception)</span>
+                <span class="method-start">12220 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIn</span>
+                <span class="method-start">12227 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=LoginIn status=SUCCESS method=NB_PM_01.LoginIn()[pri:0, instance:com.capgemini.test...)</span>
+                <span class="method-start">47289 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(private void com.capgemini.tests.NB_PM_01.packersNmovers() throws java.lang.Exception)</span>
+                <span class="method-start">47302 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">packersNmovers</span>
+                <span class="method-start">47304 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDownMethod</span>
+                <span class="method-start">67781 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=packersNmovers status=SUCCESS method=NB_PM_01.packersNmovers()[pri:0, instance:com....)</span>
+                <span class="method-start">67781 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">driverquit</span>
+                <span class="method-start">68313 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_02</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass</span>
+                <span class="method-start">70625 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(public void com.capgemini.tests.NB_PM_02.LoginIn() throws java.lang.Exception)</span>
+                <span class="method-start">76483 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIn</span>
+                <span class="method-start">76483 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=LoginIn status=SUCCESS method=NB_PM_02.LoginIn()[pri:0, instance:com.capgemini.test...)</span>
+                <span class="method-start">110107 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Between_Cities</span>
+                <span class="method-start">110112 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(private void com.capgemini.tests.NB_PM_02.Between_Cities() throws java.lang.Exception)</span>
+                <span class="method-start">110112 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=Between_Cities status=SUCCESS method=NB_PM_02.Between_Cities()[pri:0, instance:com....)</span>
+                <span class="method-start">119544 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDownMethod</span>
+                <span class="method-start">119545 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-class after">
+                <span class="method-name">driverquit</span>
+                <span class="method-start">119912 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_03</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass</span>
+                <span class="method-start">120988 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(public void com.capgemini.tests.NB_PM_03.LoginIn() throws java.lang.Exception)</span>
+                <span class="method-start">128763 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIn</span>
+                <span class="method-start">128766 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=LoginIn status=SUCCESS method=NB_PM_03.LoginIn()[pri:0, instance:com.capgemini.test...)</span>
+                <span class="method-start">161889 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(private void com.capgemini.tests.NB_PM_03.MoversOnly() throws java.lang.Exception)</span>
+                <span class="method-start">161897 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">MoversOnly</span>
+                <span class="method-start">161898 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=MoversOnly status=SUCCESS method=NB_PM_03.MoversOnly()[pri:0, instance:com.capgemin...)</span>
+                <span class="method-start">176218 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDownMethod</span>
+                <span class="method-start">176220 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-class after">
+                <span class="method-name">driverquit</span>
+                <span class="method-start">179045 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_04</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass</span>
+                <span class="method-start">179046 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(public void com.capgemini.tests.NB_PM_04.LoginIn() throws java.lang.Exception)</span>
+                <span class="method-start">184768 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIn</span>
+                <span class="method-start">184769 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=LoginIn status=SUCCESS method=NB_PM_04.LoginIn()[pri:0, instance:com.capgemini.test...)</span>
+                <span class="method-start">217965 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">BacToHomeFromMB</span>
+                <span class="method-start">217967 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(private void com.capgemini.tests.NB_PM_04.BacToHomeFromMB() throws java.lang.Exception)</span>
+                <span class="method-start">217967 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-class after">
+                <span class="method-name">driverquit</span>
+                <span class="method-start">225633 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=BacToHomeFromMB status=SUCCESS method=NB_PM_04.BacToHomeFromMB()[pri:0, instance:co...)</span>
+                <span class="method-start">225633 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_05</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass</span>
+                <span class="method-start">227155 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(public void com.capgemini.tests.NB_PM_05.LoginIn() throws java.lang.Exception)</span>
+                <span class="method-start">237300 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIn</span>
+                <span class="method-start">237301 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=LoginIn status=SUCCESS method=NB_PM_05.LoginIn()[pri:0, instance:com.capgemini.test...)</span>
+                <span class="method-start">269784 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(private void com.capgemini.tests.NB_PM_05.BackToPackFromHS() throws java.lang.Exception)</span>
+                <span class="method-start">269786 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">BackToPackFromHS</span>
+                <span class="method-start">269788 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">driverquit</span>
+                <span class="method-start">276489 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=BackToPackFromHS status=SUCCESS method=NB_PM_05.BackToPackFromHS()[pri:0, instance:...)</span>
+                <span class="method-start">276489 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_06</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass</span>
+                <span class="method-start">279242 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(public void com.capgemini.tests.NB_PM_06.LoginIn() throws java.lang.Exception)</span>
+                <span class="method-start">287466 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginIn</span>
+                <span class="method-start">287467 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=LoginIn status=SUCCESS method=NB_PM_06.LoginIn()[pri:0, instance:com.capgemini.test...)</span>
+                <span class="method-start">320520 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUpMethod(private void com.capgemini.tests.NB_PM_06.PackNMove() throws java.lang.Exception)</span>
+                <span class="method-start">320524 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">PackNMove</span>
+                <span class="method-start">320524 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDownMethod([TestResult name=PackNMove status=SUCCESS method=NB_PM_06.PackNMove()[pri:0, instance:com.capgemini....)</span>
+                <span class="method-start">325911 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDownMethod</span>
+                <span class="method-start">325912 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-class after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">driverquit</span>
+                <span class="method-start">327268 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.capgemini.tests.NB_PM_01</div> <!-- chronological-class-name -->
+              <div class="configuration-suite after">
+                <span class="method-name">tearDownReport</span>
+                <span class="method-start">327392 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

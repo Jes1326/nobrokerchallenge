@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="com.capgemini.tests.NB_PM_01">
+        <methods>
+          <include name="setUpMethod"/>
+          <include name="LoginIn"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpReport"/>
+          <include name="packersNmovers"/>
+          <include name="tearDownReport"/>
+          <include name="setUpClass"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.capgemini.tests.NB_PM_01 -->
+      <class name="com.capgemini.tests.NB_PM_05">
+        <methods>
+          <include name="BackToPackFromHS"/>
+          <include name="setUpMethod"/>
+          <include name="setUpReport"/>
+          <include name="LoginIn"/>
+          <include name="setUpClass"/>
+          <include name="tearDownReport"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.capgemini.tests.NB_PM_05 -->
+      <class name="com.capgemini.tests.NB_PM_06">
+        <methods>
+          <include name="setUpMethod"/>
+          <include name="packersNmovers"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpReport"/>
+          <include name="setUpClass"/>
+          <include name="tearDownReport"/>
+          <include name="LoginIn"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.capgemini.tests.NB_PM_06 -->
+      <class name="com.capgemini.tests.NB_PM_04">
+        <methods>
+          <include name="setUpMethod"/>
+          <include name="LoginIn"/>
+          <include name="BacToHomeFromMB"/>
+          <include name="setUpReport"/>
+          <include name="setUpClass"/>
+          <include name="tearDownReport"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.capgemini.tests.NB_PM_04 -->
+      <class name="com.capgemini.tests.NB_PM_03">
+        <methods>
+          <include name="setUpMethod"/>
+          <include name="LoginIn"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpClass"/>
+          <include name="MoversOnly"/>
+          <include name="setUpReport"/>
+          <include name="tearDownReport"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.capgemini.tests.NB_PM_03 -->
+      <class name="com.capgemini.tests.NB_PM_02">
+        <methods>
+          <include name="setUpMethod"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpReport"/>
+          <include name="Between_Cities"/>
+          <include name="LoginIn"/>
+          <include name="tearDownReport"/>
+          <include name="setUpClass"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.capgemini.tests.NB_PM_02 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

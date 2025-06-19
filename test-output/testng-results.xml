@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on Login link]]>
+    </line>
+    <line>
+      <![CDATA[Entered Phone number: 8919902900]]>
+    </line>
+    <line>
+      <![CDATA[Submitted]]>
+    </line>
+    <line>
+      <![CDATA[Menu Clicked]]>
+    </line>
+    <line>
+      <![CDATA[PackernMovers Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Cleared From]]>
+    </line>
+    <line>
+      <![CDATA[Entered From]]>
+    </line>
+    <line>
+      <![CDATA[Select From INPUT]]>
+    </line>
+    <line>
+      <![CDATA[Cleared To]]>
+    </line>
+    <line>
+      <![CDATA[Entered To]]>
+    </line>
+    <line>
+      <![CDATA[Select To INPUT]]>
+    </line>
+    <line>
+      <![CDATA[Click Prices]]>
+    </line>
+    <line>
+      <![CDATA[Select Living Room]]>
+    </line>
+    <line>
+      <![CDATA[Select Sofa]]>
+    </line>
+    <line>
+      <![CDATA[Select 1 Seater]]>
+    </line>
+    <line>
+      <![CDATA[Click Continue]]>
+    </line>
+    <line>
+      <![CDATA[Select Date]]>
+    </line>
+    <line>
+      <![CDATA[Select Time]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Selection]]>
+    </line>
+    <line>
+      <![CDATA[Select Inventory]]>
+    </line>
+    <line>
+      <![CDATA[Click Done]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed after test method]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Login link]]>
+    </line>
+    <line>
+      <![CDATA[Entered Phone number: 8919902900]]>
+    </line>
+    <line>
+      <![CDATA[Submitted]]>
+    </line>
+    <line>
+      <![CDATA[Menu Clicked]]>
+    </line>
+    <line>
+      <![CDATA[PackernMovers Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Between Cities Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Date field]]>
+    </line>
+    <line>
+      <![CDATA[Selected a date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Price within City']]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Living Room']]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Sofa']]>
+    </line>
+    <line>
+      <![CDATA[Clicked on '2 Seater Sofa']]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Continue']]>
+    </line>
+    <line>
+      <![CDATA[Browser closed after test method]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Login link]]>
+    </line>
+    <line>
+      <![CDATA[Entered Phone number: 8919902900]]>
+    </line>
+    <line>
+      <![CDATA[Submitted]]>
+    </line>
+    <line>
+      <![CDATA[Menu opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Packers and Movers]]>
+    </line>
+    <line>
+      <![CDATA[Movers option selected]]>
+    </line>
+    <line>
+      <![CDATA['From' location entered]]>
+    </line>
+    <line>
+      <![CDATA['From' location selected]]>
+    </line>
+    <line>
+      <![CDATA['To' location entered]]>
+    </line>
+    <line>
+      <![CDATA['To' location selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on View Prices]]>
+    </line>
+    <line>
+      <![CDATA[Truck selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Schedule]]>
+    </line>
+    <line>
+      <![CDATA[Date selected]]>
+    </line>
+    <line>
+      <![CDATA[Timezone selected]]>
+    </line>
+    <line>
+      <![CDATA[Time interval selected]]>
+    </line>
+    <line>
+      <![CDATA[Schedule confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed after test method]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Login link]]>
+    </line>
+    <line>
+      <![CDATA[Entered Phone number: 8919902900]]>
+    </line>
+    <line>
+      <![CDATA[Submitted]]>
+    </line>
+    <line>
+      <![CDATA[Menu Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Packers and movers Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Mybookings Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Home Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Login link]]>
+    </line>
+    <line>
+      <![CDATA[Entered Phone number: 8919902900]]>
+    </line>
+    <line>
+      <![CDATA[Submitted]]>
+    </line>
+    <line>
+      <![CDATA[Menu Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Painting and Cleaning Clicked]]>
+    </line>
+    <line>
+      <![CDATA[City Selected]]>
+    </line>
+    <line>
+      <![CDATA[Packers and Movers Clicked]]>
+    </line>
+    <line>
+      <![CDATA[WithinCity Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Login link]]>
+    </line>
+    <line>
+      <![CDATA[Entered Phone number: 8919902900]]>
+    </line>
+    <line>
+      <![CDATA[Submitted]]>
+    </line>
+    <line>
+      <![CDATA[Menu Clicked]]>
+    </line>
+    <line>
+      <![CDATA[PackernMovers Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Cleared From]]>
+    </line>
+    <line>
+      <![CDATA[Cleared To]]>
+    </line>
+    <line>
+      <![CDATA[Click Prices]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed after test method]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-19T08:40:15 IST" name="NoBroker Suite" finished-at="2025-06-19T08:45:42 IST" duration-ms="326906">
+    <groups>
+    </groups>
+    <test started-at="2025-06-19T08:40:15 IST" name="Test" finished-at="2025-06-19T08:45:42 IST" duration-ms="326906">
+      <class name="com.capgemini.tests.NB_PM_05">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:01 IST" name="setUpClass" finished-at="2025-06-19T08:44:12 IST" duration-ms="10145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:12 IST" name="setUpMethod" finished-at="2025-06-19T08:44:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capgemini.tests.NB_PM_05.LoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:12 IST" name="LoginIn" finished-at="2025-06-19T08:44:44 IST" duration-ms="32481" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Login link]]>
+            </line>
+            <line>
+              <![CDATA[Entered Phone number: 8919902900]]>
+            </line>
+            <line>
+              <![CDATA[Submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginIn -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:44 IST" name="tearDownMethod" finished-at="2025-06-19T08:44:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIn status=SUCCESS method=NB_PM_05.LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b] output=Clicked on Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:44 IST" name="setUpMethod" finished-at="2025-06-19T08:44:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.capgemini.tests.NB_PM_05.BackToPackFromHS() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="BackToPackFromHS()[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:44 IST" name="BackToPackFromHS" finished-at="2025-06-19T08:44:51 IST" depends-on-methods="com.capgemini.tests.NB_PM_05.LoginIn" duration-ms="6699" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Painting and Cleaning Clicked]]>
+            </line>
+            <line>
+              <![CDATA[City Selected]]>
+            </line>
+            <line>
+              <![CDATA[Packers and Movers Clicked]]>
+            </line>
+            <line>
+              <![CDATA[WithinCity Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BackToPackFromHS -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:51 IST" name="driverquit" finished-at="2025-06-19T08:44:53 IST" duration-ms="2751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b]" started-at="2025-06-19T08:44:51 IST" name="tearDownMethod" finished-at="2025-06-19T08:44:51 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BackToPackFromHS status=SUCCESS method=NB_PM_05.BackToPackFromHS()[pri:0, instance:com.capgemini.tests.NB_PM_05@17fc391b] output=Menu Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.capgemini.tests.NB_PM_05 -->
+      <class name="com.capgemini.tests.NB_PM_04">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:43:13 IST" name="setUpClass" finished-at="2025-06-19T08:43:19 IST" duration-ms="5722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:43:19 IST" name="setUpMethod" finished-at="2025-06-19T08:43:19 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capgemini.tests.NB_PM_04.LoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:43:19 IST" name="LoginIn" finished-at="2025-06-19T08:43:52 IST" duration-ms="33194" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Login link]]>
+            </line>
+            <line>
+              <![CDATA[Entered Phone number: 8919902900]]>
+            </line>
+            <line>
+              <![CDATA[Submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginIn -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:43:52 IST" name="tearDownMethod" finished-at="2025-06-19T08:43:52 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIn status=SUCCESS method=NB_PM_04.LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93] output=Clicked on Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="BacToHomeFromMB()[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:43:52 IST" name="BacToHomeFromMB" finished-at="2025-06-19T08:44:00 IST" depends-on-methods="com.capgemini.tests.NB_PM_04.LoginIn" duration-ms="7657" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Packers and movers Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Mybookings Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Home Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BacToHomeFromMB -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:43:52 IST" name="setUpMethod" finished-at="2025-06-19T08:43:52 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.capgemini.tests.NB_PM_04.BacToHomeFromMB() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:44:00 IST" name="driverquit" finished-at="2025-06-19T08:44:01 IST" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93]" started-at="2025-06-19T08:44:00 IST" name="tearDownMethod" finished-at="2025-06-19T08:44:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BacToHomeFromMB status=SUCCESS method=NB_PM_04.BacToHomeFromMB()[pri:0, instance:com.capgemini.tests.NB_PM_04@4082ba93] output=Menu Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.capgemini.tests.NB_PM_04 -->
+      <class name="com.capgemini.tests.NB_PM_06">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:44:53 IST" name="setUpClass" finished-at="2025-06-19T08:45:02 IST" duration-ms="8219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:02 IST" name="setUpMethod" finished-at="2025-06-19T08:45:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capgemini.tests.NB_PM_06.LoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:02 IST" name="LoginIn" finished-at="2025-06-19T08:45:35 IST" duration-ms="33050" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Login link]]>
+            </line>
+            <line>
+              <![CDATA[Entered Phone number: 8919902900]]>
+            </line>
+            <line>
+              <![CDATA[Submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginIn -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:35 IST" name="tearDownMethod" finished-at="2025-06-19T08:45:35 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIn status=SUCCESS method=NB_PM_06.LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c] output=Clicked on Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="PackNMove()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:35 IST" name="PackNMove" finished-at="2025-06-19T08:45:40 IST" depends-on-methods="com.capgemini.tests.NB_PM_06.LoginIn" duration-ms="5385" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu Clicked]]>
+            </line>
+            <line>
+              <![CDATA[PackernMovers Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Cleared From]]>
+            </line>
+            <line>
+              <![CDATA[Cleared To]]>
+            </line>
+            <line>
+              <![CDATA[Click Prices]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PackNMove -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:35 IST" name="setUpMethod" finished-at="2025-06-19T08:45:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.capgemini.tests.NB_PM_06.PackNMove() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:40 IST" name="tearDownMethod" finished-at="2025-06-19T08:45:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PackNMove status=SUCCESS method=NB_PM_06.PackNMove()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c] output=Menu Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:40 IST" name="tearDownMethod" finished-at="2025-06-19T08:45:42 IST" duration-ms="1356" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed after test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.capgemini.tests.NB_PM_06@2b30a42c]" started-at="2025-06-19T08:45:42 IST" name="driverquit" finished-at="2025-06-19T08:45:42 IST" duration-ms="1" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null
+at com.capgemini.tests.BaseReport.driverquit(BaseReport.java:62)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238)
+at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.capgemini.tests.NB_PM_06 -->
+      <class name="com.capgemini.tests.NB_PM_01">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:40:14 IST" name="setUpReport" finished-at="2025-06-19T08:40:15 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:40:15 IST" name="setUpClass" finished-at="2025-06-19T08:40:26 IST" duration-ms="11775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:40:26 IST" name="setUpMethod" finished-at="2025-06-19T08:40:26 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capgemini.tests.NB_PM_01.LoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:40:26 IST" name="LoginIn" finished-at="2025-06-19T08:41:02 IST" duration-ms="35056" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Login link]]>
+            </line>
+            <line>
+              <![CDATA[Entered Phone number: 8919902900]]>
+            </line>
+            <line>
+              <![CDATA[Submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginIn -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:41:02 IST" name="tearDownMethod" finished-at="2025-06-19T08:41:02 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIn status=SUCCESS method=NB_PM_01.LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62] output=Clicked on Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:41:02 IST" name="setUpMethod" finished-at="2025-06-19T08:41:02 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.capgemini.tests.NB_PM_01.packersNmovers() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="packersNmovers()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:41:02 IST" name="packersNmovers" finished-at="2025-06-19T08:41:22 IST" depends-on-methods="com.capgemini.tests.NB_PM_01.LoginIn" duration-ms="20468" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu Clicked]]>
+            </line>
+            <line>
+              <![CDATA[PackernMovers Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Cleared From]]>
+            </line>
+            <line>
+              <![CDATA[Entered From]]>
+            </line>
+            <line>
+              <![CDATA[Select From INPUT]]>
+            </line>
+            <line>
+              <![CDATA[Cleared To]]>
+            </line>
+            <line>
+              <![CDATA[Entered To]]>
+            </line>
+            <line>
+              <![CDATA[Select To INPUT]]>
+            </line>
+            <line>
+              <![CDATA[Click Prices]]>
+            </line>
+            <line>
+              <![CDATA[Select Living Room]]>
+            </line>
+            <line>
+              <![CDATA[Select Sofa]]>
+            </line>
+            <line>
+              <![CDATA[Select 1 Seater]]>
+            </line>
+            <line>
+              <![CDATA[Click Continue]]>
+            </line>
+            <line>
+              <![CDATA[Select Date]]>
+            </line>
+            <line>
+              <![CDATA[Select Time]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Selection]]>
+            </line>
+            <line>
+              <![CDATA[Select Inventory]]>
+            </line>
+            <line>
+              <![CDATA[Click Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- packersNmovers -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:41:22 IST" name="tearDownMethod" finished-at="2025-06-19T08:41:23 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed after test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:41:22 IST" name="tearDownMethod" finished-at="2025-06-19T08:41:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=packersNmovers status=SUCCESS method=NB_PM_01.packersNmovers()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62] output=Menu Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:41:23 IST" name="driverquit" finished-at="2025-06-19T08:41:25 IST" duration-ms="2312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:com.capgemini.tests.NB_PM_01@48bb62]" started-at="2025-06-19T08:45:42 IST" name="tearDownReport" finished-at="2025-06-19T08:45:43 IST" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
+      </class> <!-- com.capgemini.tests.NB_PM_01 -->
+      <class name="com.capgemini.tests.NB_PM_03">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:42:15 IST" name="setUpClass" finished-at="2025-06-19T08:42:23 IST" duration-ms="7772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:42:23 IST" name="setUpMethod" finished-at="2025-06-19T08:42:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capgemini.tests.NB_PM_03.LoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:42:23 IST" name="LoginIn" finished-at="2025-06-19T08:42:56 IST" duration-ms="33123" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Login link]]>
+            </line>
+            <line>
+              <![CDATA[Entered Phone number: 8919902900]]>
+            </line>
+            <line>
+              <![CDATA[Submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginIn -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:42:56 IST" name="tearDownMethod" finished-at="2025-06-19T08:42:56 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIn status=SUCCESS method=NB_PM_03.LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe] output=Clicked on Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:42:56 IST" name="setUpMethod" finished-at="2025-06-19T08:42:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.capgemini.tests.NB_PM_03.MoversOnly() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="MoversOnly()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:42:56 IST" name="MoversOnly" finished-at="2025-06-19T08:43:10 IST" depends-on-methods="com.capgemini.tests.NB_PM_03.LoginIn" duration-ms="14319" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Packers and Movers]]>
+            </line>
+            <line>
+              <![CDATA[Movers option selected]]>
+            </line>
+            <line>
+              <![CDATA['From' location entered]]>
+            </line>
+            <line>
+              <![CDATA['From' location selected]]>
+            </line>
+            <line>
+              <![CDATA['To' location entered]]>
+            </line>
+            <line>
+              <![CDATA['To' location selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on View Prices]]>
+            </line>
+            <line>
+              <![CDATA[Truck selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Schedule]]>
+            </line>
+            <line>
+              <![CDATA[Date selected]]>
+            </line>
+            <line>
+              <![CDATA[Timezone selected]]>
+            </line>
+            <line>
+              <![CDATA[Time interval selected]]>
+            </line>
+            <line>
+              <![CDATA[Schedule confirmed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MoversOnly -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:43:10 IST" name="tearDownMethod" finished-at="2025-06-19T08:43:10 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MoversOnly status=SUCCESS method=NB_PM_03.MoversOnly()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe] output=Menu opened]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:43:10 IST" name="tearDownMethod" finished-at="2025-06-19T08:43:13 IST" duration-ms="2824" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed after test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.capgemini.tests.NB_PM_03@4a003cbe]" started-at="2025-06-19T08:43:13 IST" name="driverquit" finished-at="2025-06-19T08:43:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.capgemini.tests.NB_PM_03 -->
+      <class name="com.capgemini.tests.NB_PM_02">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:41:25 IST" name="setUpClass" finished-at="2025-06-19T08:41:31 IST" duration-ms="5857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:41:31 IST" name="LoginIn" finished-at="2025-06-19T08:42:04 IST" duration-ms="33623" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Login link]]>
+            </line>
+            <line>
+              <![CDATA[Entered Phone number: 8919902900]]>
+            </line>
+            <line>
+              <![CDATA[Submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginIn -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:41:31 IST" name="setUpMethod" finished-at="2025-06-19T08:41:31 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capgemini.tests.NB_PM_02.LoginIn() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:42:04 IST" name="tearDownMethod" finished-at="2025-06-19T08:42:04 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginIn status=SUCCESS method=NB_PM_02.LoginIn()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737] output=Clicked on Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="Between_Cities()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:42:04 IST" name="Between_Cities" finished-at="2025-06-19T08:42:14 IST" depends-on-methods="com.capgemini.tests.NB_PM_02.LoginIn" duration-ms="9429" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Menu Clicked]]>
+            </line>
+            <line>
+              <![CDATA[PackernMovers Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Between Cities Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Date field]]>
+            </line>
+            <line>
+              <![CDATA[Selected a date]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Price within City']]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Living Room']]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Sofa']]>
+            </line>
+            <line>
+              <![CDATA[Clicked on '2 Seater Sofa']]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Continue']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Between_Cities -->
+        <test-method is-config="true" signature="setUpMethod(java.lang.reflect.Method)[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:42:04 IST" name="setUpMethod" finished-at="2025-06-19T08:42:04 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.capgemini.tests.NB_PM_02.Between_Cities() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:42:14 IST" name="tearDownMethod" finished-at="2025-06-19T08:42:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Between_Cities status=SUCCESS method=NB_PM_02.Between_Cities()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737] output=Menu Clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:42:14 IST" name="tearDownMethod" finished-at="2025-06-19T08:42:14 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed after test method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.capgemini.tests.NB_PM_02@76494737]" started-at="2025-06-19T08:42:14 IST" name="driverquit" finished-at="2025-06-19T08:42:15 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.capgemini.tests.NB_PM_02 -->
+    </test> <!-- Test -->
+  </suite> <!-- NoBroker Suite -->
+</testng-results>

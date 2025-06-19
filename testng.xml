@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NoBroker Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.capgemini.tests.NB_PM_01"/>
+      <class name="com.capgemini.tests.NB_PM_02"/>
+      <class name="com.capgemini.tests.NB_PM_03"/>
+      <class name="com.capgemini.tests.NB_PM_04"/>
+      <class name="com.capgemini.tests.NB_PM_05"/>
+      <class name="com.capgemini.tests.NB_PM_06"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
